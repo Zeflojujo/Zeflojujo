@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeflojujo&label=Profile%20views&color=0e75b6&style=flat" alt="zeflojujo" /> </p>
 
-- 🔭 I’m currently working on **Blockchain Development**
+- 🔭 I’m currently working on **Decentralized Application Development**
 
-- 🌱 I’m currently learning **laravel, Nextjs**
+- 🌱 I’m currently learning **Machine Learning, Python programming language**
 
-- 👯 I’m looking to collaborate on **Mobile Development**
+- 👯 I’m looking to collaborate on **Decentralized Application Development**
 
-- 💬 Ask me about **react, laravel**
+- 💬 Ask me about **Blockchain Technology, Machine Learning**
 
 - 📫 How to reach me **zeflojujo52@gmail.com or 0719616657**
 
